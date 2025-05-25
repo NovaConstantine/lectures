@@ -6,3 +6,5 @@ But I need to work out first and then come back
 BuT and may not have enought times
 
 Still, I want a new line to be added. Did some changes but not added
+
+Now I want to test if this line will be pushed
