@@ -7,4 +7,4 @@ BuT and may not have enought times
 
 Still, I want a new line to be added. Did some changes but not added
 
-The previous line was not added and already pushed to the git hub. THis line is new and not pushed yet.
+Now I want to test if this line will be pushed
