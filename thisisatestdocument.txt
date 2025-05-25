@@ -8,3 +8,5 @@ BuT and may not have enought times
 Still, I want a new line to be added. Did some changes but not added
 
 Now I want to test if this line will be pushed
+
+From now, I will do three things, (1) commit with a and c: git commit -a -m "start a new test"
