@@ -12,3 +12,5 @@ Now I want to test if this line will be pushed
 From now, I will do three things, (1) commit with a and c: git commit -a -m "start a new test"
 
 Clearly, only added changes will be saved to commits. And reset will only reset to the recent commit. Unless use HEAD^
+
+Have no time doing this today. But let's keep a record.
